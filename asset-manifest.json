@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-flowers-shop/static/css/main.0763e0a4.css",
+    "main.js": "/react-flowers-shop/static/js/main.cb8975c8.js",
+    "index.html": "/react-flowers-shop/index.html",
+    "main.0763e0a4.css.map": "/react-flowers-shop/static/css/main.0763e0a4.css.map",
+    "main.cb8975c8.js.map": "/react-flowers-shop/static/js/main.cb8975c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0763e0a4.css",
+    "static/js/main.cb8975c8.js"
+  ]
+}
