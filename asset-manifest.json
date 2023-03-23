@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-flowers-shop/static/css/main.0763e0a4.css",
+    "main.css": "/react-flowers-shop/static/css/main.77018c3f.css",
     "main.js": "/react-flowers-shop/static/js/main.1a7b53bc.js",
     "index.html": "/react-flowers-shop/index.html",
-    "main.0763e0a4.css.map": "/react-flowers-shop/static/css/main.0763e0a4.css.map",
+    "main.77018c3f.css.map": "/react-flowers-shop/static/css/main.77018c3f.css.map",
     "main.1a7b53bc.js.map": "/react-flowers-shop/static/js/main.1a7b53bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.0763e0a4.css",
+    "static/css/main.77018c3f.css",
     "static/js/main.1a7b53bc.js"
   ]
 }
