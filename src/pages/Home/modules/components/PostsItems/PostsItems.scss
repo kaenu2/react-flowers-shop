@@ -1,0 +1,9 @@
+.posts-list{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 35px;
+	@media (max-width: 900px){
+		flex-wrap: wrap;
+	}
+}

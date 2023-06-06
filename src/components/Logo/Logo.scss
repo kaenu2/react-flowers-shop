@@ -1,0 +1,13 @@
+.logo{
+	font-weight: 500;
+	font-size: var(--fz-5);
+	line-height: var(--lh-2);
+	color: var(--color-orange);
+	transition: all 0.3s ease 0s;
+	@media (min-width: 991.98px){
+		&:hover{
+			transform: scale(1.1);
+			filter: brightness(1.2);
+		}
+	}
+}

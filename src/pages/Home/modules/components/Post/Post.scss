@@ -1,0 +1,53 @@
+.post{
+	padding: 10px 0px 15px;
+	border-radius: 5px;
+	background-color: var(--bg-color-white);
+	&__content{
+		padding: 0px 10px 20px;
+		h3{
+			font-size: var(--fz-3);
+			line-height: var(--lh-min);
+			padding: 15px 0;
+			color: var(--color-black);
+		}
+		p{
+			font-size: var(--fz-2);
+			line-height: var(--lh-3);
+			color: var(--color-grey);
+		}
+	}
+	&__img{
+		img{
+			width: 100%;
+		}
+	}
+	&__footer{
+		text-align: end;
+		padding: 0px 25px 0px 20px;
+		a{
+			color: var(--color-black);
+		}
+	}
+}
+
+.header-post{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 10px 10px;
+	&__user{
+		display: flex;
+		align-items: center;
+		gap: 5px;
+		cite{
+			font-size: var(--fz-2);
+			line-height: var(--lh-2);
+			color: var(--color-black);
+		}
+	}
+	time{
+		font-size: var(--fz-2);
+		line-height: var(--lh-2);
+		color: var(--color-grey)
+	}
+}

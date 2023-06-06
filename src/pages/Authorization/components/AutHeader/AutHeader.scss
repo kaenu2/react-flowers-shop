@@ -1,0 +1,26 @@
+.form-header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 60px;
+	&__left{
+		h1{
+			font-size: 32px;
+			line-height: 38px;
+			margin-bottom: 5px;
+		}
+		p{
+			font-size: 18px;
+			line-height: 21px;
+			color: #838383;
+		}
+	}
+	&__end{
+		display: flex;
+		align-items: center;
+		gap: 5px;
+		cursor: pointer;
+		color: #000;
+	}
+	
+}

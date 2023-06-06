@@ -1,0 +1,18 @@
+.btn-text{
+	display: flex;
+	gap: 6px;
+	align-items: center;
+	background: none;
+	font-size: var(--fz);
+	line-height: var(--lh);
+	svg{
+		transition: all 0.5s ease 0s;
+	}
+	@media (min-width: 991.98px){
+		&:hover{
+			svg{
+				transform: translateX(-5px);
+			}
+		}
+	}
+}

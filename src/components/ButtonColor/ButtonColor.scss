@@ -1,0 +1,12 @@
+.btn-color{
+	padding: 10px 0;
+	color: var(--bg-color-white);
+	background-color: var(--color-orange);
+	border-radius: 5px;
+	transition: filter 0.3s ease 0s;
+	@media (min-width: 991.98px){
+		&:hover{
+			filter: brightness(.95);
+		}
+	}
+}

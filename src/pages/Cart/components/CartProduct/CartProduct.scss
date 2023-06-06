@@ -1,0 +1,10 @@
+.left-cart__group{
+	button:disabled {
+		cursor: no-drop;
+		svg {
+			path {
+				filter: brightness(.4);
+			}
+		}
+	}
+}

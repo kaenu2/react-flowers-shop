@@ -1,0 +1,19 @@
+.cheep{
+	position: relative;
+	@media (max-width: 600px){
+		flex: 1 1 100%;
+	}
+	&__content{
+		display: flex;
+		align-items: center;
+		gap: 5px;
+		cursor: pointer;
+	}
+	&__modal{
+		&._active{
+			opacity: 1;
+			visibility: visible;
+			display: block;
+		}
+	}
+}
